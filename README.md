@@ -5,11 +5,11 @@ Este proyecto fue realizado con la intención de aplicar los conocimientos obten
 
 ## ÍNDICE
 
-* [1. Intro](https://github.com/malibb/clon-de-google/tree/main#1intro)
-* [2. Demo](https://github.com/malibb/clon-de-google/tree/main#2-demo)
-* [3. ¿Qué construirás?](https://github.com/malibb/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/malibb/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
+* [1. Intro](https://github.com/LuisaGrim20/mi-primera-pagina/blob/main/README.md#1intro)
+* [2. Demo](https://github.com/LuisaGrim20/mi-primera-pagina/blob/main/README.md#2-demo)
+* [3. ¿Qué construirás?](https://github.com/LuisaGrim20/mi-primera-pagina/blob/main/README.md#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/LuisaGrim20/mi-primera-pagina/blob/main/README.md#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/LuisaGrim20/mi-primera-pagina/blob/main/README.md#5-requisitos)
 
 ****
 
@@ -18,7 +18,7 @@ Este proyecto fue realizado con la intención de aplicar los conocimientos obten
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador💻. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS🤯 (junto con otros elementos que conocerás más adelante). Para este proyecto, con los conocimientos que tienes de HTML y CSS podras realizar un mini blog basico del tema que tu mas deseas, contine links, formularios, asi como el uso de listas. Con esta plantilla podras modificarla a tu gusto y crear un blog del tema que desees ¿aceptas el reto🤓?
 
 ## 2. Demo
-Puedes entrar a ver el demo en este vínculo: 
+Puedes entrar a ver el demo en este vínculo: https://exquisite-boba-4d976c.netlify.app/
 
 La idea es inspirarte con esta demostración de proyecto. 
 
